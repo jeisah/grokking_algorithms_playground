@@ -1,1 +1,2 @@
-# grokking_algorithms_playground
+# Grokking Algorithms Playground
+Examples taken directly from the book
